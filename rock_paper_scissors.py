@@ -1,5 +1,9 @@
-import random
+from random import randint
+game = ["rock, paper, scissors"]
+computer = game[randint(0,2)]
+player = False
 
-def play():
-    user = input("'r' for rock, 'p' for paper, 's' for scissors")
-    computer = random.choice(['r', 'p', 's'])
+while player == False:
+    player(input("rock, paper or scissors? "))
+if player == computer:
+print("It's a tie!")
