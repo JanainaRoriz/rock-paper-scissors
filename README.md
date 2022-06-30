@@ -14,4 +14,4 @@
 
 - Clone repository from https://github.com/JanainaRoriz/rock-paper-scissors/blob/main/rock_paper_scissors.py
 - Paste it in or code editor of preference 
-- Run it and have fun
+- Run it on your code editor and have fun!
